@@ -15,7 +15,7 @@ A full-stack web-based application that helps users find messes, connect with ro
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Go or Node.js  
+- **Backend**: Go  
 - **Database**: MySQL  
 - **Additional Libraries**: Chart.js (for data visualization)
 
